@@ -24,7 +24,7 @@ while cc.runScripting == 0 do
   end
 
 end
-print"test"
-print"test1"
+#print"test"
+#print"test1"
 tt.stats
 
